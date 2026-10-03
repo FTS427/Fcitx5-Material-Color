@@ -39,6 +39,7 @@ Theme=Material-Color-Pink
 + Material-Color-Black
 + Material-Color-Orange
 + Material-Color-SakuraPink
++ Material-Color-Nord
 
 ### 手动安装
 
